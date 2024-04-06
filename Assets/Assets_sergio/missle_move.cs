@@ -6,7 +6,7 @@ public class missle_move : MonoBehaviour
 {
 	public Rigidbody2D			body;
 	public BulletData			data;
-	public const float			screenTop = 1000;
+	public const float			screenTop = 20;
     // Start is called before the first frame update
     void Start()
     {
